@@ -1,0 +1,12 @@
+p {
+	font-family: sans-serif; 
+	margin: 20px;
+}
+
+h1 {
+	font-color: red;
+}
+
+.active {
+	border-color: black;
+}
